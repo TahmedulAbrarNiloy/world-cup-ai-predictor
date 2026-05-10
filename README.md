@@ -31,7 +31,7 @@ Want to run this project on your local machine? Follow these easy steps:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR-USERNAME/world-cup-ai-predictor.git](https://github.com/YOUR-USERNAME/world-cup-ai-predictor.git)
+git clone [https://github.com/TahmedulAbrarNiloy/world-cup-ai-predictor.git](https://github.com/TahmedulAbrarNiloy/world-cup-ai-predictor.git)
 cd world-cup-ai-predictor
 2. Install dependencies
 Make sure you have Python installed, then run:
@@ -56,7 +56,9 @@ WC_Feature_Importance.csv: The exported weights showing which stats matter most.
 📊 Data Source
 The data used to train this model was sourced from the FIFA World Cup Team Dataset on Kaggle.
 
-## 🤝 Let's Connect
-Created by **Tahmedul Abrar Niloy**
-* [LinkedIn](https://www.linkedin.com/in/tahmedul-abrar-niloy-0458a8396/)
-* [GitHub](https://github.com/TahmedulAbrarNiloy)
+🤝 Let's Connect
+Created by Tahmedul Abrar Niloy
+
+LinkedIn
+
+GitHub

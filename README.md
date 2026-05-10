@@ -56,5 +56,7 @@ WC_Feature_Importance.csv: The exported weights showing which stats matter most.
 📊 Data Source
 The data used to train this model was sourced from the FIFA World Cup Team Dataset on Kaggle.
 
-🤝 Let's Connect
-**Created by Tahmedul Abrar Niloy**
+## 🤝 Let's Connect
+Created by **Tahmedul Abrar Niloy**
+* [LinkedIn](https://www.linkedin.com/in/tahmedul-abrar-niloy-0458a8396/)
+* [GitHub](https://github.com/TahmedulAbrarNiloy)
